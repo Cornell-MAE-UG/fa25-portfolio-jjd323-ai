@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Joseph D'Arcangelo - Portfolio
 permalink: /projects/
 ---
 
