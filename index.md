@@ -6,7 +6,7 @@ title: Joseph D'Arcangelo
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/SPD-Headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 I am Joey. 
