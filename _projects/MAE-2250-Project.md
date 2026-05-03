@@ -15,7 +15,7 @@ image: /assets/images/SLF.jpg
 }
 </style>
 
-<h2>MAE2250 Project</h2>
+<h2>Project Overview</h2>
 <p>This project focuses on [brief description here]. It includes three major milestones:</p>
 
 <ul>
