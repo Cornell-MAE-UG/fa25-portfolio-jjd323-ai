@@ -13,6 +13,7 @@ image: /assets/images/SLF.jpg
   height: auto;
   display: block;
   margin: 20px auto;
+  clear: both;
 }
 </style>
 <br>
