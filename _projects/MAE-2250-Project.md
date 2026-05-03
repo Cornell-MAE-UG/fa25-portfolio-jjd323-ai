@@ -27,25 +27,25 @@ image: /assets/images/SLF.jpg
 
 <p><strong>(Parts List) MAE2250 Parts List</strong></p>
 
-<p><strong>Fabrication of parts list:</strong></p>
+<p><strong>Assembly Instructions:</strong></p>
 
-<p>Cut the 12-inch by 12-inch wooden slab into three equal-width sections. Glued them together with wood glue and clamped them together at the four corners allowed it to rest for 24 hours.</p>
+<p>1) Cut the 12-inch by 12-inch wooden slab into three equal-width sections. Glued them together with wood glue and clamped them together at the four corners allowed it to rest for 24 hours.</p>
 
-<p>Cut the tube down to roughly an 8-inch length, just to make sure there was not too much excess, making the mechanism difficult to use.</p>
+<p>2) Cut the tube down to roughly an 8-inch length, just to make sure there was not too much excess, making the mechanism difficult to use.</p>
 
-<p>Cut down the 24-inch length wooden shaft into four 6-inch pieces to prevent motion.</p>
+<p>3) Cut down the 24-inch length wooden shaft into four 6-inch pieces to prevent motion.</p>
 
-<p>Cut one more wooden shaft to roughly 8 inches, and attach it to one gear using tape to use it as a handle.</p>
+<p>4) Cut one more wooden shaft to roughly 8 inches, and attach it to one gear using tape to use it as a handle.</p>
 
-<p>3D printed gears with CAD from McMaster at the RPL, slightly edited CAD to add a larger hole in the center to decrease the rotational inertia of the mechanism.</p>
+<p>5) 3D printed gears with CAD from McMaster at the RPL, slightly edited CAD to add a larger hole in the center to decrease the rotational inertia of the mechanism.</p>
 
-<p>Drill a 27/64 inch drill bit into the wooden base and glue it down to ensure it is secure. Push two wooden shafts through the two 3D printed gears, but allow the gears to freely rotate. (This was supposed to be done with wooden screws, but our part didn’t come.)</p>
+<p>6) Drill a 27/64 inch drill bit into the wooden base and glue it down to ensure it is secure. Push two wooden shafts through the two 3D printed gears, but allow the gears to freely rotate. (This was supposed to be done with wooden screws, but our part didn’t come.)</p>
 
-<p>Attach the modified 8-inch tubing horizontally to one gear with tape. (This was supposed to be drilled down, but our clamp were a different dimension than intended.)</p>
+<p>7) Attach the modified 8-inch tubing horizontally to one gear with tape. (This was supposed to be drilled down, but our clamp were a different dimension than intended.)</p>
 
-<p>Attach the 8-inch wooden shaft horizontally to the other gear with tape. This will be used for control of the rotational motion of the gears.</p>
+<p>8) Attach the 8-inch wooden shaft horizontally to the other gear with tape. This will be used for control of the rotational motion of the gears.</p>
 
-<p>Drilled a ¼ inch drill bit on each side of the 8-inch wooden shaft. Glue down the two 6-inch wooden shafts into the two holes.</p>
+<p>9) Drilled a ¼ inch drill bit on each side of the 8-inch wooden shaft. Glue down the two 6-inch wooden shafts into the two holes.</p>
 
 <br>
 
