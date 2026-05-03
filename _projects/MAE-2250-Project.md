@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MAE 2250 Project
-description: Advanced CAD Project
+description: Semester-long group project focused on designing a spotted lanternfly mitgation system for wineries. 
 technologies: [Autodesk Fusion]
 image: /assets/images/SLF.jpg
 ---
