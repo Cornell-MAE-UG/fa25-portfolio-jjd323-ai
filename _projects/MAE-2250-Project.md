@@ -8,7 +8,7 @@ image: /assets/images/SLF.jpg
 
 <style>
 .project-image {
-  max-width: 400px;
+  max-width: 600px;
   width: 100%;
   height: auto;
   display: block;
