@@ -81,6 +81,22 @@ image: /assets/images/SLF.jpg
 
 <h2>MAE2250 Bill of Materials</h2>
 
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+</style>
+
 <table>
   <thead>
     <tr>
@@ -166,4 +182,3 @@ image: /assets/images/SLF.jpg
   </tbody>
 </table>
 
-</p>
