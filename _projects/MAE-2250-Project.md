@@ -211,10 +211,13 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 <p>Effective gas dispersion is crucial for our project to work, because it theoretically means the lanternflies would be better dispersed away from the grapes due to a lack of oxygen.</p>
 <img src="{{ '/assets/images/ODP5DemoPic1.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
-     class="project-image">
+     class="project-image"
+     style="max-width: 300px; width: 100%; height: auto;">
+
 <img src="{{ '/assets/images/ODP5DemoPic2.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
-     class="project-image">
+     class="project-image"
+     style="max-width: 300px; width: 100%; height: auto;">
 
 <p style="margin-bottom: 10px;"></p>
 
