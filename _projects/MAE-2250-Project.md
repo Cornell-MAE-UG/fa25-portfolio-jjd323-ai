@@ -33,7 +33,7 @@ h3[id] {
 <div class="toc-container">
   <h3>Contents</h3>
   <ul>
-    <li><a href="#client-pitch">Client Pitch (ODP3)</a></li>
+    <li><a href="#client-pitch">Client Pitch (ODP 3)</a></li>
     <li><a href="#functional-prototype">Functional Prototype (ODP 5)</a></li>
     <li><a href="#client-report">Client Report (ODP 6)</a></li>
   </ul>
