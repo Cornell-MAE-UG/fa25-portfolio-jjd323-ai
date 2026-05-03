@@ -70,11 +70,10 @@ image: /assets/images/SLF.jpg
 
 <p><strong>Assembly Instructions:</strong></p>
 
-<p>We need arrows in assembly for movement.</p>
-<p>Fasten gears to wooden board with screws so gears are toothed together.</p>
-<p>Fasten tube for gas dispersion to one gear.</p>
-<p>Fasten handle to the other gear to allow for controlled rotation.</p>
-<p>Attach wooden shafts into wooden board to constrain the rotation of the gears.</p>
+<p>1) Fasten gears to wooden board with screws so gears are toothed together.</p>
+<p>2) Fasten tube for gas dispersion to one gear.</p>
+<p>3) Fasten handle to the other gear to allow for controlled rotation.</p>
+<p>4) Attach wooden shafts into wooden board to constrain the rotation of the gears.</p>
 
 <br>
 
@@ -151,7 +150,12 @@ image: /assets/images/SLF.jpg
 
 <p><strong>Demo:</strong> Upon spinning the handle, the nozzle rotates with a 90-degree free rotation due to the smooth rotation of the spur gears connected underneath.</p>
 </p>
-
+<img src="{{ '/assets/images/ODP5DemoPic1.png' | relative_url }}" 
+     alt="MAE2250 Parts List" 
+     class="project-image">
+<img src="{{ '/assets/images/ODP5DemoPic2.png' | relative_url }}" 
+     alt="MAE2250 Parts List" 
+     class="project-image">
 <hr>
 
 <h3 id="client-report">Client Report</h3>
