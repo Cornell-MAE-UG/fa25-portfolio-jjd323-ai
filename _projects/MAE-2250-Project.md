@@ -27,7 +27,7 @@ image: /assets/images/SLF.jpg
 <hr>
 
 <h3 id="client-pitch">Client Pitch</h3>
-<p><h2><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></h2>
+<h2><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></h2>
 <p><strong>Lantern Fly Eradication Unit</strong></p>
 
 <br>
@@ -52,7 +52,7 @@ image: /assets/images/SLF.jpg
 
 <p><strong>Proposed Directions</strong></p>
 
-<p><strong>Smoke Machine Attached to Harvester</strong></p>
+<p><em>Smoke Machine Attached to Harvester</em></p>
 
 <p>Attach a smoke (or similar gas) delivery system to the front of the harvester to temporarily deter SLFs from the vines immediately before harvest. The goal is to use a non-lethal substance to clear the vines without relying on pesticides, potentially by rerouting harvester exhaust or using a small gas canister with forward-facing nozzles.</p>
 
@@ -60,7 +60,7 @@ image: /assets/images/SLF.jpg
 
 <br>
 
-<p><strong>Bristles as a Filter</strong></p>
+<p><em>Bristles as a Filter</em></p>
 
 <p>Install a system of brush bristles along the inner conveyor of the harvester to mechanically filter SLFs from grapes immediately after harvest. The bristles would comb over the harvested material, allowing grapes and juice to pass while removing SLFs from the harvest.</p>
 
@@ -80,9 +80,7 @@ Clarifies feasibility of the smoke solution, ensuring regulations and flavor are
 It is important for us to design the potency, speed, and distribution of our solution.</p>
 
 <p><strong>What are the constraints to the modification of the harvester both internally (for the brush) and externally (for the smoke machine)?</strong><br>
-Ensuring the feasibility of attaching a tank to the harvester or adding a bristle filter system.</p></p>
-
-<hr>
+Ensuring the feasibility of attaching a tank to the harvester or adding a bristle filter system.</p>
 
 <h3 id="functional-prototype">Functional Prototype</h3>
 <p><td><strong>Design Documentation</strong></td>
