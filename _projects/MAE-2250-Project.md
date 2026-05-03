@@ -23,7 +23,7 @@ image: /assets/images/SLF.jpg
 <hr>
 
 <h3 id="functional-prototype">Functional Prototype</h3>
-<p><h2><strong>Design Documentation</strong></h2>
+<p><td><strong>Design Documentation</strong></td>
 
 <p><strong>(Parts List) MAE2250 Parts List</strong></p>
 
