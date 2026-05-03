@@ -35,7 +35,7 @@ h3[id] {
   <ul>
     <li><a href="#client-pitch-(ODP3)">Client Pitch</a></li>
     <li><a href="#functional-prototype-(ODP5)">Functional Prototype</a></li>
-    <li><a href="#client-report (ODP6)">Client Report</a></li>
+    <li><a href="#client-report-(ODP6)">Client Report</a></li>
   </ul>
 </div>
 
