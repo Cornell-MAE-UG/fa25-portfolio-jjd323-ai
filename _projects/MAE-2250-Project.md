@@ -209,15 +209,16 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 <p>Gears that are constrained such that the gas dispersion tube only has an approximate 90-degree range of motion without experiencing significant resistance forces (friction, etc.).</p>
 
 <p>Effective gas dispersion is crucial for our project to work, because it theoretically means the lanternflies would be better dispersed away from the grapes due to a lack of oxygen.</p>
-
-<p><strong>Demo:</strong> Upon spinning the handle, the nozzle rotates with a 90-degree free rotation due to the smooth rotation of the spur gears connected underneath.</p>
-</p>
 <img src="{{ '/assets/images/ODP5DemoPic1.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
      class="project-image">
 <img src="{{ '/assets/images/ODP5DemoPic2.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
      class="project-image">
+
+<p><strong>Demo:</strong> Upon spinning the handle, the nozzle rotates with a 90-degree free rotation due to the smooth rotation of the spur gears connected underneath.</p>
+</p>
+
 <hr>
 
 <h3 id="client-report">Client Report</h3>
