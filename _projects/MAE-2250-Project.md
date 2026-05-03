@@ -32,8 +32,6 @@ image: /assets/images/SLF.jpg
 
 <p style="font-style: italic;"> By: Lantern Fly Eradication Unit</p>
 
-<br>
-
 <p><strong>Problem Statement</strong></p>
 
 <p>During mechanical grape harvest, spotted lantern flies (SLF) remain on the vines and can be collected with the fruit, contaminating loads. Even minimal contamination is unacceptable: as few as 1–2 SLFs (≈1–2 g) can contaminate a 1000 g core sample, triggering shipment rejection.</p>
