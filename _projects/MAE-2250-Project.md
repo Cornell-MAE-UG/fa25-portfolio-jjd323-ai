@@ -5,9 +5,10 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/SLF.jpg
 ---
+
 <style>
 .project-image {
-  max-width: 600px;
+  max-width: 400px;
   width: 100%;
   height: auto;
   display: block;
