@@ -27,8 +27,9 @@ image: /assets/images/SLF.jpg
 <hr>
 
 <h3 id="client-pitch">Client Pitch</h3>
-<h2><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></h2>
-<p><strong>Lantern Fly Eradication Unit</strong></p>
+<h2>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</h2>
+
+<p style="font-style: italic;">Lantern Fly Eradication Unit</p>
 
 <br>
 
