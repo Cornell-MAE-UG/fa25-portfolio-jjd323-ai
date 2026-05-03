@@ -30,13 +30,14 @@ h3[id] {
 <h2>Project Overview</h2>
 <p>This project focuses on developing a method to aid wineries and grape farms against spotted lanternfly contamination in harvests. It was a semester-long group project required for MAE 2250, Intro to Mechanical Design. It includes three major milestones:</p>
 
-<ul>
-  <li><a href="#client-pitch">Client Pitch</a></li>
-  <li><a href="#functional-prototype">Functional Prototype</a></li>
-  <li><a href="#client-report">Client Report</a></li>
-</ul>
-
-<hr>
+<div class="toc-container">
+  <h3>Contents</h3>
+  <ul>
+    <li><a href="#client-pitch">Client Pitch</a></li>
+    <li><a href="#functional-prototype">Functional Prototype</a></li>
+    <li><a href="#client-report">Client Report</a></li>
+  </ul>
+</div>
 
 <h3 id="client-pitch">Client Pitch</h3>
 <p><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></p>
