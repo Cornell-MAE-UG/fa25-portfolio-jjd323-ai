@@ -5,6 +5,15 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/SLF.jpg
 ---
+<style>
+.project-image {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+</style>
 
 <h2>MAE2250 Project</h2>
 <p>This project focuses on [brief description here]. It includes three major milestones:</p>
@@ -26,7 +35,9 @@ image: /assets/images/SLF.jpg
 <p><td><strong>Design Documentation</strong></td>
 
 <p><strong>(Parts List) MAE2250 Parts List</strong></p>
-<img src="{{ '/assets/images/MAE2250PartsList.png' | relative_url }}" alt="MAE2250 Parts List">
+<img src="{{ '/assets/images/MAE2250PartsList.png' | relative_url }}" 
+     alt="MAE2250 Parts List" 
+     class="project-image">
 <p><strong>Assembly Instructions:</strong></p>
 
 <p>1) Cut the 12-inch by 12-inch wooden slab into three equal-width sections. Glued them together with wood glue and clamped them together at the four corners allowed it to rest for 24 hours.</p>
