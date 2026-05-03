@@ -12,7 +12,7 @@ permalink: /projects/
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
           
           <p class="project-title">{{ project.title }}</p>
-          <p class="project-description">{{ project.description }}</p>
+          <p>{{ project.description | default: "NO DESCRIPTION FOUND" }}</p>
           
         </a>
       </div>
