@@ -33,9 +33,9 @@ h3[id] {
 <div class="toc-container">
   <h3>Contents</h3>
   <ul>
-    <li><a href="#client-pitch">Client Pitch</a></li>
-    <li><a href="#functional-prototype">Functional Prototype</a></li>
-    <li><a href="#client-report">Client Report</a></li>
+    <li><a href="#client-pitch-(ODP3)">Client Pitch</a></li>
+    <li><a href="#functional-prototype-(ODP5)">Functional Prototype</a></li>
+    <li><a href="#client-report (ODP6)">Client Report</a></li>
   </ul>
 </div>
 
