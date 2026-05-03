@@ -150,10 +150,10 @@ image: /assets/images/SLF.jpg
 
 <p><strong>Demo:</strong> Upon spinning the handle, the nozzle rotates with a 90-degree free rotation due to the smooth rotation of the spur gears connected underneath.</p>
 </p>
-<img src="{{ '/assets/images/ODP5DemoPic1.png' | relative_url }}" 
+<img src="{{ '/assets/images/ODP5DemoPic1.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
      class="project-image">
-<img src="{{ '/assets/images/ODP5DemoPic2.png' | relative_url }}" 
+<img src="{{ '/assets/images/ODP5DemoPic2.jpg' | relative_url }}" 
      alt="MAE2250 Parts List" 
      class="project-image">
 <hr>
