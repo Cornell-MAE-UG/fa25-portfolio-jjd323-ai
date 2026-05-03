@@ -26,7 +26,7 @@ image: /assets/images/SLF.jpg
 <p><td><strong>Design Documentation</strong></td>
 
 <p><strong>(Parts List) MAE2250 Parts List</strong></p>
-<img src="/workspaces/fa25-portfolio-jjd323-ai/assets/images/MAE2250PartsList.png" alt="Description of image">
+<img src="assets/images/MAE2250PartsList.png" alt="Description of image">
 <p><strong>Assembly Instructions:</strong></p>
 
 <p>1) Cut the 12-inch by 12-inch wooden slab into three equal-width sections. Glued them together with wood glue and clamped them together at the four corners allowed it to rest for 24 hours.</p>
