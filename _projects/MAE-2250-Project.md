@@ -209,16 +209,16 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 <p>Gears that are constrained such that the gas dispersion tube only has an approximate 90-degree range of motion without experiencing significant resistance forces (friction, etc.).</p>
 
 <p>Effective gas dispersion is crucial for our project to work, because it theoretically means the lanternflies would be better dispersed away from the grapes due to a lack of oxygen.</p>
-<div style="display: block; text-align: center; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  
   <img src="{{ '/assets/images/ODP5DemoPic1.jpg' | relative_url }}" 
-       alt="MAE2250 Parts List" 
-       style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;">
-</div>
+       alt="MAE2250 Demo 1" 
+       style="max-width: 300px; width: 100%; height: auto;">
 
-<div style="display: block; text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/images/ODP5DemoPic2.jpg' | relative_url }}" 
-       alt="MAE2250 Parts List" 
-       style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;">
+       alt="MAE2250 Demo 2" 
+       style="max-width: 300px; width: 100%; height: auto;">
+
 </div>
 
 <p style="margin-bottom: 10px;"></p>
