@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<style>
+.project-header-image {
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.project-header-image img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+</style>
+
 <h1>{{ page.title }}</h1>
 
 <div class="project-header-image">
@@ -15,25 +33,3 @@ layout: default
 <a href="{{ "/projects/" | relative_url }}" class="back-arrow">
     <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
 </a>
-
-.project-header-image {
-  width: 100%;
-  text-align: center;
-  margin-top: 10px;
-  margin-bottom: 20px;
-}
-
-.project-header-image img {
-  max-width: 400px;   /* controls size */
-  width: 100%;
-  height: auto;
-  display: inline-block;
-}
-.project-header-image img {
-  max-width: 400px;
-  width: 100%;
-  height: auto;
-  display: inline-block;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
