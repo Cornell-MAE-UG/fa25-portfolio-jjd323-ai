@@ -27,7 +27,60 @@ image: /assets/images/SLF.jpg
 <hr>
 
 <h3 id="client-pitch">Client Pitch</h3>
-<p>Content, images, PDF links, etc.</p>
+<p><h2><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></h2>
+<p><strong>Lantern Fly Eradication Unit</strong></p>
+
+<br>
+
+<p><strong>Problem Statement</strong></p>
+
+<p>During mechanical grape harvest, spotted lantern flies (SLF) remain on the vines and can be collected with the fruit, contaminating loads. Even minimal contamination is unacceptable: as few as 1–2 SLFs (≈1–2 g) can contaminate a 1000 g core sample, triggering shipment rejection.</p>
+
+<p>With deliveries occurring every 10 minutes at roughly 22 tons per load, a single rejected shipment results in substantial product loss, contributing to an estimated $14.3 million of damages across the Lake Erie and Finger Lakes regions in the first three years of infestation.</p>
+
+<p>Current solutions, such as chemical treatments or post-harvest separation, are either ineffective during active harvest, reduce yield, or are operationally inefficient. The challenge is therefore to deter SLF from vines before or during harvest, or to separate them from harvested material, without damaging grape quality or reducing yield.</p>
+
+<br>
+
+<p><strong>Why This Matters to the End-User</strong></p>
+
+<p>Solving this problem would allow vineyards to avoid yield loss from post-harvest washing, reduce SLF contamination in harvested loads, and eliminate the need for additional chemical treatments during a critical harvest window.</p>
+
+<p>By preventing shipment rejections and harvest slowdowns, the solution would preserve grape quality, protect the winery's reputation, and reduce significant economic losses.</p>
+
+<br>
+
+<p><strong>Proposed Directions</strong></p>
+
+<p><strong>Smoke Machine Attached to Harvester</strong></p>
+
+<p>Attach a smoke (or similar gas) delivery system to the front of the harvester to temporarily deter SLFs from the vines immediately before harvest. The goal is to use a non-lethal substance to clear the vines without relying on pesticides, potentially by rerouting harvester exhaust or using a small gas canister with forward-facing nozzles.</p>
+
+<p>We would prototype with a canister connected to two spray nozzles with an attachment mechanism to the harvester. Key risks/unknowns include whether SLFs will consistently fly away when exposed to smoke or exhaust, whether exposure could affect grape quality, and whether harvesters have sufficient space and power capacity to support the system. These factors would require rigorous prototyping and testing.</p>
+
+<br>
+
+<p><strong>Bristles as a Filter</strong></p>
+
+<p>Install a system of brush bristles along the inner conveyor of the harvester to mechanically filter SLFs from grapes immediately after harvest. The bristles would comb over the harvested material, allowing grapes and juice to pass while removing SLFs from the harvest.</p>
+
+<p>We would prototype this by designing a brush and running it over grapes with flour or another substance on them. Key risks/unknowns include whether the bristles can reliably filter out SLFs without blocking or damaging grapes, and whether they are durable enough for long-term use. Effective implementation would require experimentation with bristle density and spacing.</p>
+
+<br>
+
+<p><strong>Our Questions</strong></p>
+
+<p><strong>Will SLF consistently disperse when exposed to smoke or exhaust?</strong><br>
+Determines whether or not we move forward with the gas or bristle solution.</p>
+
+<p><strong>Are there grape regulatory or flavor concerns regarding smoke or gas exposure?</strong><br>
+Clarifies feasibility of the smoke solution, ensuring regulations and flavor aren’t compromised.</p>
+
+<p><strong>Given a known deterrent, how long will it take for SLFs to return to the vines? How long does it take for the harvester to collect the grapes, and will the time of deterrence be long enough?</strong><br>
+It is important for us to design the potency, speed, and distribution of our solution.</p>
+
+<p><strong>What are the constraints to the modification of the harvester both internally (for the brush) and externally (for the smoke machine)?</strong><br>
+Ensuring the feasibility of attaching a tank to the harvester or adding a bristle filter system.</p></p>
 
 <hr>
 
