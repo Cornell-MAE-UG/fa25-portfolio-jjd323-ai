@@ -33,13 +33,13 @@ h3[id] {
 <div class="toc-container">
   <h3>Contents</h3>
   <ul>
-    <li><a href="#client-pitch(ODP3)">Client Pitch</a></li>
-    <li><a href="#functional-prototype(ODP5)">Functional Prototype</a></li>
-    <li><a href="#client-report(ODP6)">Client Report</a></li>
+    <li><a href="#client-pitch">Client Pitch (ODP3)</a></li>
+    <li><a href="#functional-prototype">Functional Prototype (ODP 5P)</a></li>
+    <li><a href="#client-report">Client Report (ODP 6)</a></li>
   </ul>
 </div>
 
-<h3 id="client-pitch(ODP3)">Client Pitch</h3>
+<h3 id="client-pitch">Client Pitch</h3>
 <p><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></p>
 
 <p style="font-style: italic;"> By: Lantern Fly Eradication Unit</p>
@@ -94,7 +94,7 @@ It is important for us to design the potency, speed, and distribution of our sol
 <p><strong>What are the constraints to the modification of the harvester both internally (for the brush) and externally (for the smoke machine)?</strong><br>
 Ensuring the feasibility of attaching a tank to the harvester or adding a bristle filter system.</p>
 
-<h3 id="functional-prototype(ODP5)">Functional Prototype</h3>
+<h3 id="functional-prototype">Functional Prototype</h3>
 <p><td><strong>Design Documentation</strong></td>
 
 <p><strong>MAE2250 Parts List (as of ODP5)</strong></p>
@@ -233,7 +233,7 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <hr>
 
-<h3 id="client-report(ODP6)">Client Report</h3>
+<h3 id="client-report">Client Report</h3>
 
 <td><strong>Context and Problem</strong></td>
 
