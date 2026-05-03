@@ -263,7 +263,7 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <p>In a final design, the manual handle would be replaced by servo motors integrated with the harvesting system, and the prototype materials would be replaced with more durable components suitable for repeated outdoor agricultural use.</p>
 
-<h2>MAE2250 Bill of Materials</h2>
+<h2>MAE2250 Bill of Materials (Final)</h2>
 
 <style>
 table {
