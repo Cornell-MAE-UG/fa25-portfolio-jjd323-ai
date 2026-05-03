@@ -16,6 +16,17 @@ image: /assets/images/SLF.jpg
   clear: both;
 }
 </style>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+h3[id] {
+  scroll-margin-top: 100px; /* adjust if you have a navbar */
+}
+</style>
+
 <h2>Project Overview</h2>
 <p>This project focuses on developing a method to aid wineries and grape farms against spotted lanternfly contamination in harvests. It was a semester-long group project required for MAE 2250, Intro to Mechanical Design. It includes three major milestones:</p>
 
