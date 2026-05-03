@@ -15,7 +15,7 @@ image: /assets/images/SLF.jpg
   margin: 20px auto;
 }
 </style>
-
+<br>
 <h2>Project Overview</h2>
 <p>This project focuses on developing a method to aid wineries and grape farms against spotted lanternfly contamination in harvests. It was a semester-long group project required for MAE 2250, Intro to Mechanical Design. It includes three major milestones:</p>
 
@@ -28,9 +28,9 @@ image: /assets/images/SLF.jpg
 <hr>
 
 <h3 id="client-pitch">Client Pitch</h3>
-<p><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></h2>
+<p><strong>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</strong></p>
 
-<p style="font-style: italic;">Lantern Fly Eradication Unit</p>
+<p> style="font-style: italic;">Lantern Fly Eradication Unit</p>
 
 <br>
 
