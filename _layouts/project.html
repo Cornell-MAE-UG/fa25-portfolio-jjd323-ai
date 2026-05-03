@@ -4,12 +4,28 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+<div class="project-header-image">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" />
+</div>
 
 {{ content }}
 
 <p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
 
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
+<a href="{{ "/projects/" | relative_url }}" class="back-arrow">
     <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
 </a>
+
+.project-header-image {
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.project-header-image img {
+  max-width: 400px;   /* controls size */
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
