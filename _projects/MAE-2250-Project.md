@@ -34,7 +34,7 @@ image: /assets/images/SLF.jpg
 <h3 id="functional-prototype">Functional Prototype</h3>
 <p><td><strong>Design Documentation</strong></td>
 
-<p><strong>(Parts List) MAE2250 Parts List</strong></p>
+<p><strong>MAE2250 Parts List (as of ODP5)</strong></p>
 <img src="{{ '/assets/images/MAE2250PartsList.png' | relative_url }}" 
      alt="MAE2250 Parts List" 
      class="project-image">
@@ -60,7 +60,11 @@ image: /assets/images/SLF.jpg
 
 <br>
 
-<p><strong>(Illustration)</strong></p>
+<p><strong>Illustration</strong></p>
+
+<img src="{{ '/assets/images/ODP5Drawing.jpg' | relative_url }}" 
+     alt="MAE2250 Parts List" 
+     class="project-image">
 
 <br>
 
