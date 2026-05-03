@@ -216,6 +216,8 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
      alt="MAE2250 Parts List" 
      class="project-image">
 
+<p style="margin-bottom: 10px;"></p>
+
 <p><strong>Demo:</strong> Upon spinning the handle, the nozzle rotates with a 90-degree free rotation due to the smooth rotation of the spur gears connected underneath.</p>
 </p>
 
