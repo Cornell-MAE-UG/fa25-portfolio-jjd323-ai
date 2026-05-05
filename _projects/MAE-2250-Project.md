@@ -243,7 +243,7 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <img src="{{ "/assets/images/ODP6_1.png" | relative_url }}" 
      alt="My Image" 
-     style="max-width: 525px; width: 100%; height: auto;">
+     style="max-width: 250px; width: 100%; height: auto;">
 
 <p>Several key constraints shaped our design: it needed to operate in real time alongside harvesting equipment, avoid disrupting current operations, remain low-cost and mechanically simple, and ensure safety for both grapes and workers. These constraints led us to prioritize a solution that targets SLFs just before or during harvest without requiring major changes to existing systems.</p>
 
@@ -259,7 +259,7 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <img src="{{ "/assets/images/ODP6_2.png" | relative_url }}" 
      alt="My Image" 
-     style="max-width: 525px; width: 100%; height: auto;">
+     style="max-width: 250px; width: 100%; height: auto;">
 
 <td><strong>Conclusion and Recommendation</strong></td>
 
@@ -287,7 +287,7 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <img src="{{ "/assets/images/ODP6_3.png" | relative_url }}" 
      alt="My Image" 
-     style="max-width: 525px; width: 100%; height: auto;">
+     style="max-width: 250px; width: 100%; height: auto;">
 
 <p>The aluminum base was used to support the gear shafts and maintain alignment between the driving and driven gears. A handle was attached to the lower gear so that manual rotation could mimic the powered motion that would be produced by a servo motor in a final implementation. As the lower gear rotates, it drives the upper gear, causing the attached tube and nozzle to sweep through the intended range of motion.</p>
 
