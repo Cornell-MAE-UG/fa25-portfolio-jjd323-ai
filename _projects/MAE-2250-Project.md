@@ -241,7 +241,9 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <p>We chose to focus on pre-harvest and in-process mitigation rather than broader population control because it offers a more immediate and controllable intervention that can be integrated directly into existing harvesting operations. At this point, we believe that seeking to eliminate the SLF population is a much larger issue both in scale and timeline, and we wanted to enable clean harvests now.</p>
 
-<img src="{{ "/assets/images/ODP6_1.png" | relative_url }}" alt="My Image">
+<img src="{{ "/assets/images/ODP6_1.png" | relative_url }}" 
+     alt="My Image" 
+     style="max-width: 600px; width: 100%; height: auto;">
 
 <p>Several key constraints shaped our design: it needed to operate in real time alongside harvesting equipment, avoid disrupting current operations, remain low-cost and mechanically simple, and ensure safety for both grapes and workers. These constraints led us to prioritize a solution that targets SLFs just before or during harvest without requiring major changes to existing systems.</p>
 
@@ -255,7 +257,9 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <p>To test our design, we made a simple mock-up out of metal and 3D printed gears. This system demonstrates the gear mechanism to disperse gas into the grape collection chamber. Although on a final design our system would be actuated by a servo motor, for our final prototype, we determined it sufficient for there to be a handle on one of the gears to mimic the motion the servo motor would provide. Images of the device are provided in the following figures.</p>
 
-<img src="{{ "/assets/images/ODP6_2.png" | relative_url }}" alt="My Image">
+<img src="{{ "/assets/images/ODP6_2.png" | relative_url }}" 
+     alt="My Image" 
+     style="max-width: 600px; width: 100%; height: auto;">
 
 <td><strong>Conclusion and Recommendation</strong></td>
 
@@ -281,7 +285,9 @@ Ensuring the feasibility of attaching a tank to the harvester or adding a bristl
 
 <p>Our prototype was developed as a simple proof of concept to demonstrate the mechanical feasibility of directing deterrent gas across the grape harvesting chamber. The system was constructed using an aluminum mounting base, two large 3D-printed gears, a manual handle, a rubber tube to represent the gas delivery line, and pipe clamps used to secure the tube to the rotating gear.</p>
 
-<img src="{{ "/assets/images/ODP6_3.png" | relative_url }}" alt="My Image">
+<img src="{{ "/assets/images/ODP6_3.png" | relative_url }}" 
+     alt="My Image" 
+     style="max-width: 600px; width: 100%; height: auto;">
 
 <p>The aluminum base was used to support the gear shafts and maintain alignment between the driving and driven gears. A handle was attached to the lower gear so that manual rotation could mimic the powered motion that would be produced by a servo motor in a final implementation. As the lower gear rotates, it drives the upper gear, causing the attached tube and nozzle to sweep through the intended range of motion.</p>
 
