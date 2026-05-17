@@ -24,20 +24,21 @@ This project focused on the structural and thermal design of an electronics encl
 ---
 
 # Dust Cover Images
+
 <div class="image-grid">
 
   <figure>
-    <img src="{{ '/assets/images/DustCover1.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/DustCover1.png' | relative_url }}">
     <figcaption>Dust Cover 1</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/DustCover2.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/DustCover2.png' | relative_url }}">
     <figcaption>Dust Cover 2</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/DustCover3.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/DustCover3.png' | relative_url }}">
     <figcaption>Dust Cover 3</figcaption>
   </figure>
 
@@ -45,37 +46,37 @@ This project focused on the structural and thermal design of an electronics encl
 
 ---
 
-# Board Mount Pics
+# Board Mount Images
 
 <div class="image-grid">
 
   <figure>
-    <img src="{{ '/assets/images/PowerBoardMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/PowerBoardMount.png' | relative_url }}">
     <figcaption>Power Board Mount</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/SenseBoardMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/SenseBoardMount.png' | relative_url }}">
     <figcaption>Sense Board Mount</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/SKAM-HatMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/SKAM-HatMount.png' | relative_url }}">
     <figcaption>SKAM-Hat Mount</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/SKAMBoardMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/SKAMBoardMount.png' | relative_url }}">
     <figcaption>SKAM Board Mount</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/IgnitorBoardMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/IgnitorBoardMount.png' | relative_url }}">
     <figcaption>Ignitor Board Mount</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/BallValveBoardMount.png' | relative_url }}">
+    <img class="uniform-image" src="{{ '/assets/images/BallValveBoardMount.png' | relative_url }}">
     <figcaption>Ball Valve Board Mount</figcaption>
   </figure>
 
