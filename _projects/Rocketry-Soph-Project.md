@@ -14,12 +14,23 @@ image: /assets/images/CRT-Logo.png
 
 ## Overview
 
-This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station system. The enclosure was designed to:
+This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station ground control system. The enclosure was designed to:
 
 - Securely mount electrical systems
 - Prevent overheating in desert competition environments
 - Minimize dust intrusion
 - Maintain accessibility for wiring and maintenance
+
+---
+
+# Full Report Download
+
+A brief summary of the projected is included on this webpage. The full report is availble to download here.
+
+<a href="{{ '/assets/pdfs/Rocketry-Report-Soph.pdf' | relative_url }}"
+   style="display:inline-block; padding:10px 16px; border:2px solid #000; text-decoration:none; margin:10px 0;">
+  📄 Download Full Report (PDF)
+</a>
 
 ---
 
