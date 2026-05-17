@@ -102,17 +102,17 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 
 # Requirements
 
-<table style="width:100%; border-collapse:collapse; border:2px solid #333; margin:25px 0; font-family:Arial, sans-serif; font-size:0.95rem;">
+<table style="width:100%; border-collapse:collapse; border:2px solid $back; margin:25px 0; font-family:Open Sans, Montserrat,Helvetica Neue sans-serif; font-size:0.95rem;">
 
   <thead>
     <tr>
-      <th style="border:1px solid #333; padding:12px 15px; background:#eaeaea; text-align:center;">
+      <th style="border:1px solid $text-color; padding:12px 15px; background:$background-color; text-align:center;">
         Requirement
       </th>
-      <th style="border:1px solid #333; padding:12px 15px; background:#eaeaea; text-align:center;">
+      <th style="border:1px solid $text-color; padding:12px 15px; background:$background-color; text-align:center;">
         Reasoning
       </th>
-      <th style="border:1px solid #333; padding:12px 15px; background:#eaeaea; text-align:center;">
+      <th style="border:1px solid $text-color; padding:12px 15px; background:$background-color; text-align:center;">
         Solution
       </th>
     </tr>
@@ -120,39 +120,39 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 
   <tbody>
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Easy board installation</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Ease of assembly</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Heat-set inserts and screws</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Easy board installation</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Ease of assembly</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Heat-set inserts and screws</td>
     </tr>
 
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">External port access</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Accessibility</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Wire pass-through dust covers</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">External port access</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Accessibility</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Wire pass-through dust covers</td>
     </tr>
 
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Secure mounting</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Transport safety</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">VHB + inserts</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Secure mounting</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Transport safety</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">VHB + inserts</td>
     </tr>
 
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Fit inside enclosure</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">System integration</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">CAD-constrained layout</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Fit inside enclosure</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">System integration</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">CAD-constrained layout</td>
     </tr>
 
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Minimize dust entry</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Prevent shorts</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">RTV-sealed openings</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Minimize dust entry</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Prevent shorts</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">RTV-sealed openings</td>
     </tr>
 
     <tr>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Thermal mitigation</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Prevent overheating</td>
-      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">White paint + raised stand</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Thermal mitigation</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">Prevent overheating</td>
+      <td style="border:1px solid $text-color; padding:12px 15px; text-align:center;">White paint + raised stand</td>
     </tr>
   </tbody>
 
