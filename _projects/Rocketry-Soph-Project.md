@@ -285,7 +285,7 @@ $$
 
 Multiple other design options were looked into for thermal mitigation, but were ultimately scrapped. 
 
-### Water-Cooling System
+<h3 style="font-style: italic;">Water Cooling System</h3>
 
 A water cooling system was investigated to help cool the electronics. This system was ultimately not chosen because it would not directly address the radiation from the sun coming into the system and would address the heat coming from the electronics, the much less siginifigant source of heat. This sort of system would also be costly compared to other options and would introduce the risk of water short-circuitng the electornics in the case of a leak. 
 
