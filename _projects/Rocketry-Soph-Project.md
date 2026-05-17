@@ -290,10 +290,9 @@ Multiple other design options were looked into for thermal mitigation, but were 
 A water-cooling system was considered as a potential thermal management solution for the electronics enclosure. This approach was ultimately not selected because it does not address the dominant heat load, which is solar radiation entering the enclosure, and instead primarily targets internal heat generation from the electronics, which was estimated to be a secondary contributor. In addition, a liquid-based cooling system would significantly increase system cost and complexity, while introducing a risk of leakage that could result in electrical failure or short-circuiting of sensitive components. Due to these constraints, a detailed thermal analysis of this option was not pursued.
 
 <h3 style="font-style: italic;">Reflective Heat Shield</h3>
+The option of a reflective heat shield was also investigated. Compared to a water-cooling system, this approach more directly reduces the dominant heat input from solar radiation and is significantly lower in cost. However, its overall cost was found to be comparable to that of a glossy white paint finish, so a thermal analysis was performed to compare performance.
 
-The option of a reflective heat shield was also investigated. This would more-so address the primary source of heat energy than water-cooling and be signifigantly cheaper. The cost of this ended up being comprable to that of glossy white paint, so thermal calculations were ran on this option. 
-
-For reflective heat shield:
+For a reflective heat shield:
 
 $$
 \alpha \approx 0.1
@@ -303,17 +302,13 @@ $$
 \varepsilon \approx 0.3
 $$
 
-Predicted maximum temperature (using previously derived formula from above):
+The predicted maximum temperature (using the previously derived energy balance model) was:
 
 $$
-T_{max} = 118^\circ F \approx 47.8^\circ C
+T_{\max} = 118^\circ F \approx 47.8^\circ C
 $$
 
-This remained below the allowable electronics temperature limit of:
-
-$$
-140^\circ F
-$$
+This result is thermodynamically similar to the glossy white paint case, indicating minimal thermal benefit from the change in surface properties alone. As a result, this option was not selected. The primary drawback was implementation reliability: the design would require adhesive-backed reflective sheets applied to the enclosure surface, which would likely degrade under shipping loads and prolonged exposure to harsh field conditions. In contrast, paint provides a more durable and integrated surface treatment. For these reasons, the reflective heat shield concept was not pursued further.
 
 
 # Manufacturing
