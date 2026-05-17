@@ -14,7 +14,7 @@ The download link for my resume is below.
 </a>
 
 
-**Email:** [jjd323@cornell.edu](mailto:jjd323@cornell.edu) | | | **Phone:** +978 201 4618
+**Email:** [jjd323@cornell.edu](mailto:jjd323@cornell.edu)
 
 ---
 
