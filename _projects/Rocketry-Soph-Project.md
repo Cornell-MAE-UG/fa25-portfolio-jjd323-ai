@@ -3,7 +3,7 @@ layout: project
 order: 1
 title: Rocketry Project 2025-2026
 description: Year long project focused on insulating and dust-proofing launch-critical ground station. 
-technologies: [SolidWorks, 3D Printing]
+technologies: [SolidWorks, 3D Printing, Thermodynamic Analysis]
 image: /assets/images/CRT-Logo.png
 ---
 
