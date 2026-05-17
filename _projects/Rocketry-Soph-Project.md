@@ -287,7 +287,33 @@ Multiple other design options were looked into for thermal mitigation, but were 
 
 <h3 style="font-style: italic;">Water Cooling System</h3>
 
-A water cooling system was investigated to help cool the electronics. This system was ultimately not chosen because it would not directly address the radiation from the sun coming into the system and would address the heat coming from the electronics, the much less siginifigant source of heat. This sort of system would also be costly compared to other options and would introduce the risk of water short-circuitng the electornics in the case of a leak. 
+A water-cooling system was considered as a potential thermal management solution for the electronics enclosure. This approach was ultimately not selected because it does not address the dominant heat load, which is solar radiation entering the enclosure, and instead primarily targets internal heat generation from the electronics, which was estimated to be a secondary contributor. In addition, a liquid-based cooling system would significantly increase system cost and complexity, while introducing a risk of leakage that could result in electrical failure or short-circuiting of sensitive components. Due to these constraints, a detailed thermal analysis of this option was not pursued.
+
+<h3 style="font-style: italic;">Reflective Heat Shield</h3>
+
+The option of a reflective heat shield was also investigated. This would more-so address the primary source of heat energy than water-cooling and be signifigantly cheaper. The cost of this ended up being comprable to that of glossy white paint, so thermal calculations were ran on this option. 
+
+For reflective heat shield:
+
+$$
+\alpha \approx 0.1
+$$
+
+$$
+\varepsilon \approx 0.3
+$$
+
+Predicted maximum temperature (using previously derived formula from above):
+
+$$
+T_{max} = 118^\circ F \approx 47.8^\circ C
+$$
+
+This remained below the allowable electronics temperature limit of:
+
+$$
+140^\circ F
+$$
 
 
 # Manufacturing
