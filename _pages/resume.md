@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 ## Resume
 
-The download link for my resume is below.--
+The download link for my resume is below.
 
 
 <a href="{{ '/assets/pdfs/Resume.pdf' | relative_url }}"
