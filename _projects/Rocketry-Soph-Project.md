@@ -174,7 +174,6 @@ h A_{box}(T_s - T_{air})
 =
 0
 $$
-
 <table style="width:100%; border-collapse:collapse; border:2px solid #000; margin:25px 0; font-family:Open Sans, Montserrat, Helvetica Neue, sans-serif; font-size:0.95rem;">
 
   <thead>
@@ -185,6 +184,9 @@ $$
       <th style="border:1px solid #000; padding:12px 15px; background:#f7f8fa; text-align:center;">
         Meaning
       </th>
+      <th style="border:1px solid #000; padding:12px 15px; background:#f7f8fa; text-align:center;">
+        Units
+      </th>
     </tr>
   </thead>
 
@@ -193,46 +195,55 @@ $$
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$\alpha$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Solar absorptivity</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">—</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$G$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Solar irradiance</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">W/m²</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$A_{sun}$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Projected solar area</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">m²</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$\varepsilon$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Surface emissivity</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">—</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$\sigma$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Stefan–Boltzmann constant</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">W/m²·K⁴</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$T_s$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Surface temperature</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">K or °F</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$T_{air}$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Ambient temperature</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">K or °F</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$h$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Convective heat transfer coefficient</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">W/m²·K</td>
     </tr>
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$A_{box}$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Surface area</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">m²</td>
     </tr>
 
   </tbody>
