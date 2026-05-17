@@ -175,17 +175,69 @@ h A_{box}(T_s - T_{air})
 0
 $$
 
-| Variable | Meaning |
-|---|---|
-| $\alpha$ | Solar absorptivity |
-| $G$ | Solar irradiance |
-| $A_{sun}$ | Projected solar area |
-| $\varepsilon$ | Surface emissivity |
-| $\sigma$ | Stefan-Boltzmann constant |
-| $T_s$ | Surface temperature |
-| $T_{air}$ | Ambient temperature |
-| $h$ | Convective heat transfer coefficient |
-| $A_{box}$ | Surface area |
+<table style="width:100%; border-collapse:collapse; border:2px solid #333; margin:25px 0; font-family:Arial, sans-serif; font-size:0.95rem;">
+
+  <thead>
+    <tr>
+      <th style="border:1px solid #333; padding:12px 15px; background:#eaeaea; text-align:center;">
+        Variable
+      </th>
+      <th style="border:1px solid #333; padding:12px 15px; background:#eaeaea; text-align:center;">
+        Meaning
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$\alpha$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Solar absorptivity</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$G$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Solar irradiance</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$A_{sun}$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Projected solar area</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$\varepsilon$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Surface emissivity</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$\sigma$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Stefan–Boltzmann constant</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$T_s$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Surface temperature</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$T_{air}$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Ambient temperature</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$h$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Convective heat transfer coefficient</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">$A_{box}$</td>
+      <td style="border:1px solid #333; padding:12px 15px; text-align:center;">Surface area</td>
+    </tr>
+
+  </tbody>
+
+</table>
 
 For glossy white paint:
 
