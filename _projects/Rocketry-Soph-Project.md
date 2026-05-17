@@ -363,4 +363,4 @@ Thermal validation was analytical rather than experimental due to lack of access
 
 # Full Technical Report
 
-[Download Full PDF](/assets/pdfs/Rocketry-Report-Soph.pdf)
+[Download Full PDF]({{ '/assets/pdfs/Rocketry-Report-Soph.pdf' | relative_url }})
