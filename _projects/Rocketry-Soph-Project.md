@@ -14,6 +14,8 @@ This project focused on the structural and thermal design of an electronics encl
 
 The design prioritizes secure component mounting, thermal protection against extreme desert conditions, dust mitigation, and maintainable access for wiring and electrical system servicing and iterating.
 
+This was a year long-project, completed for Cornell Rocketry's 2025-2026 launch vehicle, Valkyrie.
+ 
 ---
 
 # Full Report Download
