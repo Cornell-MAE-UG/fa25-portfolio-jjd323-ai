@@ -172,15 +172,8 @@ The dominant heat source for the enclosure was determined to be solar radiation.
 
 The enclosure temperature was modeled using an energy balance derived from the First Law of Thermodynamics:
 
-$$
-\alpha G A_{sun}
--
-\varepsilon \sigma (T_s^4 - T_{air}^4)
--
-h A_{box}(T_s - T_{air})
-=
-0
-$$
+$\alpha G A_{\text{sun}} - \varepsilon \sigma A_{\text{box}} ( T_s^4 - T_{\text{air}}^4 ) - h A_{\text{box}} ( T_s - T_{\text{air}} ) = 0$
+
 <table style="width:100%; border-collapse:collapse; border:2px solid #000; margin:25px 0; font-family:Open Sans, Montserrat, Helvetica Neue, sans-serif; font-size:0.95rem;">
 
   <thead>
