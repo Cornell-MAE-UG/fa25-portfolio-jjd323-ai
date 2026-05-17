@@ -10,12 +10,9 @@ image: /assets/images/CRT-Logo.png
 
 # Overview
 
-This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station ground control system. The enclosure was designed to:
+This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station ground control system used in a desert competition environment. The system integrates launch-critical electronics within a rugged SKB enclosure.
 
-- Securely mount electrical systems
-- Prevent overheating in desert competition environments
-- Minimize dust intrusion
-- Maintain accessibility for wiring and maintenance
+The design prioritizes secure component mounting, thermal protection against extreme desert conditions, dust mitigation, and maintainable access for wiring and electrical system servicing and iterating.
 
 ---
 
