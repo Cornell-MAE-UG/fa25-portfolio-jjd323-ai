@@ -102,39 +102,53 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 
 # Requirements
 
-\documentclass{article}
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Requirement</th>
+      <th>Reasoning</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
 
-\usepackage{amsmath}
-\usepackage{array}
-\usepackage{float}
+  <tbody>
+    <tr>
+      <td>Easy board installation</td>
+      <td>Ease of assembly</td>
+      <td>Heat-set inserts and screws</td>
+    </tr>
 
-\begin{document}
+    <tr>
+      <td>External port access</td>
+      <td>Accessibility</td>
+      <td>Wire pass-through dust covers</td>
+    </tr>
 
-\begin{table}[H]
-\centering
-\caption{\textbf{Structural Design Requirements}}
-\renewcommand{\arraystretch}{1.5}
+    <tr>
+      <td>Secure mounting</td>
+      <td>Transport safety</td>
+      <td>VHB + inserts</td>
+    </tr>
 
-\begin{tabular}{|c|c|c|}
-\hline
-\textbf{Requirement} & \textbf{Reasoning} & \textbf{Solution} \\
-\hline
-Easy board installation & Ease of assembly & Heat-set inserts and screws \\
-\hline
-External port access & Accessibility & Wire pass-through dust covers \\
-\hline
-Secure mounting & Transport safety & VHB + inserts \\
-\hline
-Fit inside enclosure & System integration & CAD-constrained layout \\
-\hline
-Minimize dust entry & Prevent shorts & RTV-sealed openings \\
-\hline
-Thermal mitigation & Prevent overheating & White paint + raised stand \\
-\hline
-\end{tabular}
-\end{table}
+    <tr>
+      <td>Fit inside enclosure</td>
+      <td>System integration</td>
+      <td>CAD-constrained layout</td>
+    </tr>
 
-\end{document}
+    <tr>
+      <td>Minimize dust entry</td>
+      <td>Prevent shorts</td>
+      <td>RTV-sealed openings</td>
+    </tr>
+
+    <tr>
+      <td>Thermal mitigation</td>
+      <td>Prevent overheating</td>
+      <td>White paint + raised stand</td>
+    </tr>
+  </tbody>
+</table>
 
 
 # Thermal Analysis

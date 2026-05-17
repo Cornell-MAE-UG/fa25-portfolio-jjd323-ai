@@ -47,6 +47,25 @@ $text-color: #000000;
   font-style: italic;
 }
 
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.95rem;
+}
+
+.styled-table th,
+.styled-table td {
+  border: 1px solid $text-color;
+  padding: 12px;
+  text-align: center;
+}
+
+.styled-table th {
+  background-color: $background-color;
+  font-weight: bold;
+}
+
 .image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
