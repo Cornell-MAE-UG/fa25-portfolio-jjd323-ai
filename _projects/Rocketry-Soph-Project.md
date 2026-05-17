@@ -26,20 +26,20 @@ This project focused on the structural and thermal design of an electronics encl
 ## Dust Cover Designs
 
 <div class="image-grid">
-  <img src="/assets/images/DustCover1.png">
-  <img src="/assets/images/DustCover2.png">
-  <img src="/assets/images/DustCover3.png">
+  <img src="{{ '/assets/images/DustCover1.png' | relative_url }}">
+  <img src="{{ '/assets/images/DustCover2.png' | relative_url }}">
+  <img src="{{ '/assets/images/DustCover3.png' | relative_url }}">
 </div>
 
 ## Board Mount Designs
 
 <div class="image-grid">
-  <img src="/assets/images/PowerBoardMount.png">
-  <img src="/assets/images/SenseBoardMount.png">
-  <img src="/assets/images/SKAM-HatMount.png">
-  <img src="/assets/images/SKAMBoardMount.png">
-  <img src="/assets/images/IgnitorBoardMount.png">
-  <img src="/assets/images/BallValveBoardMount.png">
+  <img src="{{ '/assets/images/PowerBoardMount.png' | relative_url }}">
+  <img src="{{ '/assets/images/SenseBoardMount.png' | relative_url }}">
+  <img src="{{ '/assets/images/SKAM-HatMount.png' | relative_url }}">
+  <img src="{{ '/assets/images/SKAMBoardMount.png' | relative_url }}">
+  <img src="{{ '/assets/images/IgnitorBoardMount.png' | relative_url }}">
+  <img src="{{ '/assets/images/BallValveBoardMount.png' | relative_url }}">
 </div>
 
 ---
