@@ -164,6 +164,7 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 
 </table>
 
+---
 
 # Thermal Analysis
 
