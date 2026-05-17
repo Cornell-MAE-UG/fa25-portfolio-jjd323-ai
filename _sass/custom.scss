@@ -18,6 +18,17 @@ $text-color: #000000;
   $text-color: #1e0101;
 }
 
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.image-grid img {
+  width: 100%;
+  border-radius: 12px;
+}
 
 .navbar, h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
