@@ -6,14 +6,17 @@ permalink: /projects/
 
 <div class="gallery-container">
   <div class="project-gallery">
-    {% for project in site.projects %}
+
+    {% assign sorted_projects = site.projects | sort: "order" %}
+
+    {% for project in sorted_projects %}
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          
+
           <p class="project-title">{{ project.title }}</p>
           <p>{{ project.description | default: "NO DESCRIPTION FOUND" }}</p>
-          
+
         </a>
       </div>
     {% endfor %}
