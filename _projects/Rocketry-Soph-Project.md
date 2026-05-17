@@ -305,7 +305,7 @@ $$
 The predicted maximum temperature (using the previously derived energy balance model) was:
 
 $$
-T_{\max} = 118^\circ F \approx 47.8^\circ C
+T_{\max} = 120^\circ F \approx 49^\circ C
 $$
 
 This result is thermodynamically similar to the glossy white paint case, indicating minimal thermal benefit from the change in surface properties alone. As a result, this option was not selected. The primary drawback was implementation reliability: the design would require adhesive-backed reflective sheets applied to the enclosure surface, which would likely degrade under shipping loads and prolonged exposure to harsh field conditions. In contrast, paint provides a more durable and integrated surface treatment. For these reasons, the reflective heat shield concept was not pursued further.
