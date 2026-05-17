@@ -242,7 +242,7 @@ $\alpha G A_{\text{sun}} - \varepsilon \sigma A_{\text{box}} ( T_s^4 - T_{\text{
 
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$A_{box}$</td>
-      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Surface area</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Exposed surface area</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">m²</td>
     </tr>
 
