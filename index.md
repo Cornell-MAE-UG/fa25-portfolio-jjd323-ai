@@ -15,6 +15,6 @@ I am currently on the Cornell Rocketry Project Team, and also involved in Cornel
 
 I am proficeint in both Fusion 360 and SolidWorks. I also know MATLAB and Python. So far in my coursework, I have completed thermodynamics, statics, dynamics, calculus 1-3, differential equations, linear algebra, and intro the mechanical design.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/pdfs/Resume" | relative_url }}">my resume</a>.
 
 If you would like to learn more about my personal interests and who I am, my personal website is linked <a href="https://cornell.digication.com/joseph-darcangelo-engrg-1152-coaching-and-mentoring-for-professional-and-student-success-2025fa">here</a>.
