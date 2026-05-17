@@ -107,32 +107,22 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 \caption{\textbf{Structural Design Requirements}}
 \renewcommand{\arraystretch}{1.5}
 
-\begin{tabular}{|>{\centering\arraybackslash}m{4cm}|
-                >{\centering\arraybackslash}m{6cm}|
-                >{\centering\arraybackslash}m{5cm}|}
+\begin{tabular}{|c|c|c|}
 \hline
-
 \textbf{Requirement} & \textbf{Reasoning} & \textbf{Solution} \\
 \hline
-
 Easy board installation & Ease of assembly & Heat-set inserts and screws \\
 \hline
-
 External port access & Accessibility & Wire pass-through dust covers \\
 \hline
-
 Secure mounting & Transport safety & VHB + inserts \\
 \hline
-
 Fit inside enclosure & System integration & CAD-constrained layout \\
 \hline
-
 Minimize dust entry & Prevent shorts & RTV-sealed openings \\
 \hline
-
 Thermal mitigation & Prevent overheating & White paint + raised stand \\
 \hline
-
 \end{tabular}
 \end{table}
 
