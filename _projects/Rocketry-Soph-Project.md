@@ -32,20 +32,20 @@ This project focused on the structural and thermal design of an electronics encl
 ## Dust Cover Designs
 
 <div class="image-grid">
-  <img src="/assets/images/fill-station/DustCover1.png">
-  <img src="/assets/images/fill-station/DustCover2.png">
-  <img src="/assets/images/fill-station/DustCover3.png">
+  <img src="/assets/images/DustCover1.png">
+  <img src="/assets/images/DustCover2.png">
+  <img src="/assets/images/DustCover3.png">
 </div>
 
 ## Board Mount Designs
 
 <div class="image-grid">
-  <img src="/assets/images/fill-station/PowerBoardMount.png">
-  <img src="/assets/images/fill-station/SenseBoardMount.png">
-  <img src="/assets/images/fill-station/SKAM-HatMount.png">
-  <img src="/assets/images/fill-station/SKAMBoardMount.png">
-  <img src="/assets/images/fill-station/IgnitorBoardMount.png">
-  <img src="/assets/images/fill-station/BallValveBoardMount.png">
+  <img src="/assets/images/PowerBoardMount.png">
+  <img src="/assets/images/SenseBoardMount.png">
+  <img src="/assets/images/SKAM-HatMount.png">
+  <img src="/assets/images/SKAMBoardMount.png">
+  <img src="/assets/images/IgnitorBoardMount.png">
+  <img src="/assets/images/BallValveBoardMount.png">
 </div>
 
 ---
