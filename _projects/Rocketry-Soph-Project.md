@@ -20,7 +20,7 @@ This was a year long-project, completed for Cornell Rocketry's 2025-2026 launch 
 
 # Full Report Download
 
-A brief summary of the projected is included on this webpage. The full report is availble to download here.
+A brief summary of the project is included on this webpage. The full report is availble to download here.
 
 <a href="{{ '/assets/pdfs/Rocketry-Report-Soph.pdf' | relative_url }}"
    style="display:inline-block; padding:10px 16px; border:2px solid #000; text-decoration:none; margin:10px 0;">
