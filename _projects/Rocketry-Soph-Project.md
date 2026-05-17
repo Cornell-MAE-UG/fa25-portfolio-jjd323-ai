@@ -6,13 +6,7 @@ description: Year long project focused on insulating and dust-proofing launch-cr
 technologies: [SolidWorks, 3D Printing]
 image: /assets/images/CRT-Logo.png
 ---
----
-layout: project
-title: Fill Station Electronics Enclosure
-description: Thermal mitigation and structural mounting system for electronics in a rocket fill station
-image: /assets/images/fill-station/DustCover1.png
-order: 1
----
+
 
 # Fill Station Electronics Enclosure
 
