@@ -301,14 +301,63 @@ Thermal validation was analytical rather than experimental due to lack of access
 
 # Bill of Materials
 
-| Item | Supplier | Cost |
-|---|---|---|
-| VHB Tape | Amazon | \$22.46 |
-| White Paint | Home Depot | \$50.94 |
-| Heat-set Inserts | McMaster | \$15.22 |
-| Plastic Primer | McMaster | \$14.98 |
-| Screws | McMaster | \$7.69 |
-| Plastic Washers | McMaster | \$12.12 |
+<table style="width:100%; border-collapse:collapse; border:2px solid #000; margin:25px 0; font-family:Open Sans, Montserrat, Helvetica Neue, sans-serif; font-size:0.95rem;">
+
+  <thead>
+    <tr>
+      <th style="border:1px solid #000; padding:12px 15px; background:#f7f8fa; text-align:center;">
+        Item
+      </th>
+      <th style="border:1px solid #000; padding:12px 15px; background:#f7f8fa; text-align:center;">
+        Supplier
+      </th>
+      <th style="border:1px solid #000; padding:12px 15px; background:#f7f8fa; text-align:center;">
+        Cost
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">VHB Tape</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Amazon</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$22.46</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">White Paint</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Home Depot</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$50.94</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Heat-set Inserts</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">McMaster</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$15.22</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Plastic Primer</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">McMaster</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$14.98</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Screws</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">McMaster</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$7.69</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Plastic Washers</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">McMaster</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$12.12</td>
+    </tr>
+
+  </tbody>
+
+</table>
 
 ---
 
