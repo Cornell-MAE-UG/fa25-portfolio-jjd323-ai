@@ -102,6 +102,14 @@ The enclosure exterior was painted white to reduce solar heat absorption during 
 
 # Requirements
 
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{float}
+
+\begin{document}
+
 \begin{table}[H]
 \centering
 \caption{\textbf{Structural Design Requirements}}
@@ -125,6 +133,9 @@ Thermal mitigation & Prevent overheating & White paint + raised stand \\
 \hline
 \end{tabular}
 \end{table}
+
+\end{document}
+
 
 # Thermal Analysis
 
