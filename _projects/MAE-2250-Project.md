@@ -3,7 +3,7 @@ layout: project
 title: MAE 2250 Project
 description: Semester-long group project focused on designing a spotted lanternfly mitgation system for wineries. 
 technologies: [Autodesk Fusion, 3D Printing]
-image: /assets/images/CRT-Logo.png
+image: /assets/images/SLF.jpg
 ---
 
 <style>
