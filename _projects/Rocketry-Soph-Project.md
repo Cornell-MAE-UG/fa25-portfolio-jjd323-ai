@@ -23,9 +23,7 @@ This project focused on the structural and thermal design of an electronics encl
 
 ---
 
-# Design Images
-
-# Dust Cover Pics
+# Dust Cover Images
 <div class="image-grid">
 
   <figure>
@@ -44,6 +42,8 @@ This project focused on the structural and thermal design of an electronics encl
   </figure>
 
 </div>
+
+---
 
 # Board Mount Pics
 
