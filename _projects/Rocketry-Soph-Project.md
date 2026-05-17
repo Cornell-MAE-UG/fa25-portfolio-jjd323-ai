@@ -10,6 +10,8 @@ image: /assets/images/CRT-Logo.png
 
 # Fill Station Electronics Enclosure
 
+---
+
 ## Overview
 
 This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station system. The enclosure was designed to:
