@@ -195,7 +195,7 @@ $$
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$\alpha$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Solar absorptivity</td>
-      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">—</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">(dimensionless)</td>
     </tr>
 
     <tr>
@@ -213,7 +213,7 @@ $$
     <tr>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">$\varepsilon$</td>
       <td style="border:1px solid #000; padding:12px 15px; text-align:center;">Surface emissivity</td>
-      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">—</td>
+      <td style="border:1px solid #000; padding:12px 15px; text-align:center;">(dimensionless)</td>
     </tr>
 
     <tr>
