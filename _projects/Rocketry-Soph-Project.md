@@ -12,7 +12,7 @@ image: /assets/images/CRT-Logo.png
 
 ---
 
-## Overview
+# Overview
 
 This project focused on the structural and thermal design of an electronics enclosure for a rocket fill station ground control system. The enclosure was designed to:
 
