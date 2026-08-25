@@ -27,11 +27,11 @@ I started this project by designing a connecting rod for my model. Attached belo
 <img src="{{ '/assets/images/Connectingrod1.png' | relative_url }}" 
      alt="Connecting rod iteration 1" 
      class="project-image"
-     style="width: 50px; max-width: 100%; height: auto;">
+     style="width: 150px; max-width: 100%; height: auto;">
 
 This design changed quite a lot throughout the exercise. The first major change was to remove material, so I could sit two connecting rods next to each other in the same crankshaft section. After that, to ensure the pistons would line up directly next to each other, another cut was added at the top to allow more movement of the piston perpendicular to the rod. The final design is pictured here. 
 
 <img src="{{ '/assets/images/Connectingrod2.png' | relative_url }}" 
      alt="Connecting rod iteration 1" 
      class="project-image"
-     style="width: 50px; max-width: 100%; height: auto;">
+     style="width: 150px; max-width: 100%; height: auto;">
