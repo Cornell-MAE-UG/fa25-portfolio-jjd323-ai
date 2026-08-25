@@ -26,4 +26,5 @@ I started this project by designing a connecting rod for my model. Attached belo
 
 <img src="{{ '/assets/images/Connectingrod1.png' | relative_url }}" 
      alt="Connecting rod iteration 1" 
-     class="project-image">
+     class="project-image"
+     style="width: 250px; max-width: 100%; height: auto;">
